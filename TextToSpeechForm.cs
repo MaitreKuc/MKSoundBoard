@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Speech.Synthesis;
 using System.Windows.Forms;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     public partial class TextToSpeechForm : Form
     {

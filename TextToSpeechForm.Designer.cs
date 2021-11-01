@@ -1,4 +1,4 @@
-﻿namespace JNSoundboard
+﻿namespace MKSoundBoard
 {
     partial class TextToSpeechForm
     {

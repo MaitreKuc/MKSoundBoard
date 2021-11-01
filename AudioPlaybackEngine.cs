@@ -4,7 +4,7 @@ using NAudio.Wave;
 using NAudio.Wave.SampleProviders;
 using System.Linq;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     class AudioPlaybackEngine : IDisposable
     {

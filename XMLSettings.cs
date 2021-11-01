@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     public class XMLSettings
     {

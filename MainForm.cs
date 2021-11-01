@@ -9,7 +9,7 @@ using System.Media;
 using NAudio.Wave;
 using System.Diagnostics;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     public partial class MainForm : Form
     {

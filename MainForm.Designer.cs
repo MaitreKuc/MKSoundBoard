@@ -1,4 +1,4 @@
-﻿namespace JNSoundboard
+﻿namespace MKSoundBoard
 {
     partial class MainForm
     {
@@ -125,7 +125,7 @@
             // btnSave
             // 
             this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnSave.Location = new System.Drawing.Point(138, 321);
+            this.btnSave.Location = new System.Drawing.Point(138, 380);
             this.btnSave.Margin = new System.Windows.Forms.Padding(3, 3, 3, 5);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(120, 23);
@@ -137,7 +137,7 @@
             // btnRemove
             // 
             this.btnRemove.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnRemove.Location = new System.Drawing.Point(572, 125);
+            this.btnRemove.Location = new System.Drawing.Point(734, 545);
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(75, 43);
             this.btnRemove.TabIndex = 3;
@@ -148,7 +148,7 @@
             // btnEdit
             // 
             this.btnEdit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnEdit.Location = new System.Drawing.Point(572, 76);
+            this.btnEdit.Location = new System.Drawing.Point(734, 496);
             this.btnEdit.Name = "btnEdit";
             this.btnEdit.Size = new System.Drawing.Size(75, 43);
             this.btnEdit.TabIndex = 2;
@@ -159,7 +159,7 @@
             // btnAdd
             // 
             this.btnAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAdd.Location = new System.Drawing.Point(572, 27);
+            this.btnAdd.Location = new System.Drawing.Point(734, 450);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(75, 43);
             this.btnAdd.TabIndex = 1;
@@ -185,7 +185,7 @@
             this.lvKeySounds.MultiSelect = false;
             this.lvKeySounds.Name = "lvKeySounds";
             this.lvKeySounds.ShowItemToolTips = true;
-            this.lvKeySounds.Size = new System.Drawing.Size(554, 288);
+            this.lvKeySounds.Size = new System.Drawing.Size(1093, 347);
             this.lvKeySounds.TabIndex = 0;
             this.lvKeySounds.UseCompatibleStateImageBehavior = false;
             this.lvKeySounds.View = System.Windows.Forms.View.Details;
@@ -214,7 +214,7 @@
             // btnLoad
             // 
             this.btnLoad.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnLoad.Location = new System.Drawing.Point(12, 321);
+            this.btnLoad.Location = new System.Drawing.Point(12, 380);
             this.btnLoad.Margin = new System.Windows.Forms.Padding(3, 3, 3, 5);
             this.btnLoad.Name = "btnLoad";
             this.btnLoad.Size = new System.Drawing.Size(120, 23);
@@ -237,7 +237,7 @@
             // btnClear
             // 
             this.btnClear.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnClear.Location = new System.Drawing.Point(572, 174);
+            this.btnClear.Location = new System.Drawing.Point(653, 450);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 43);
             this.btnClear.TabIndex = 4;
@@ -248,7 +248,7 @@
             // btnSaveAs
             // 
             this.btnSaveAs.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnSaveAs.Location = new System.Drawing.Point(264, 321);
+            this.btnSaveAs.Location = new System.Drawing.Point(264, 380);
             this.btnSaveAs.Margin = new System.Windows.Forms.Padding(3, 3, 3, 5);
             this.btnSaveAs.Name = "btnSaveAs";
             this.btnSaveAs.Size = new System.Drawing.Size(120, 23);
@@ -265,7 +265,7 @@
             this.checkForUpdateToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(659, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1198, 24);
             this.menuStrip1.TabIndex = 17;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.Click += new System.EventHandler(this.form_Click);
@@ -314,7 +314,7 @@
             // btnPlaySelectedSound
             // 
             this.btnPlaySelectedSound.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnPlaySelectedSound.Location = new System.Drawing.Point(572, 223);
+            this.btnPlaySelectedSound.Location = new System.Drawing.Point(653, 496);
             this.btnPlaySelectedSound.Name = "btnPlaySelectedSound";
             this.btnPlaySelectedSound.Size = new System.Drawing.Size(75, 43);
             this.btnPlaySelectedSound.TabIndex = 5;
@@ -325,7 +325,7 @@
             // btnStopAllSounds
             // 
             this.btnStopAllSounds.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnStopAllSounds.Location = new System.Drawing.Point(572, 272);
+            this.btnStopAllSounds.Location = new System.Drawing.Point(653, 545);
             this.btnStopAllSounds.Name = "btnStopAllSounds";
             this.btnStopAllSounds.Size = new System.Drawing.Size(75, 43);
             this.btnStopAllSounds.TabIndex = 6;
@@ -375,7 +375,7 @@
             this.gbPushToTalk.Controls.Add(this.tbPushToTalkKey);
             this.gbPushToTalk.Controls.Add(this.cbWindows);
             this.gbPushToTalk.Controls.Add(this.label4);
-            this.gbPushToTalk.Location = new System.Drawing.Point(373, 429);
+            this.gbPushToTalk.Location = new System.Drawing.Point(373, 488);
             this.gbPushToTalk.Name = "gbPushToTalk";
             this.gbPushToTalk.Size = new System.Drawing.Size(274, 96);
             this.gbPushToTalk.TabIndex = 19;
@@ -473,7 +473,7 @@
             this.gbAudioDevices.Controls.Add(this.btnReloadDevices);
             this.gbAudioDevices.Controls.Add(this.cbPlaybackDevices1);
             this.gbAudioDevices.Controls.Add(this.cbLoopbackDevices);
-            this.gbAudioDevices.Location = new System.Drawing.Point(12, 352);
+            this.gbAudioDevices.Location = new System.Drawing.Point(12, 411);
             this.gbAudioDevices.Name = "gbAudioDevices";
             this.gbAudioDevices.Size = new System.Drawing.Size(355, 173);
             this.gbAudioDevices.TabIndex = 10;
@@ -559,7 +559,7 @@
             this.gbSoundboard.Controls.Add(this.nSoundVolume);
             this.gbSoundboard.Controls.Add(this.cbEnableLoopback);
             this.gbSoundboard.Controls.Add(this.cbEnableHotkeys);
-            this.gbSoundboard.Location = new System.Drawing.Point(373, 352);
+            this.gbSoundboard.Location = new System.Drawing.Point(373, 411);
             this.gbSoundboard.Name = "gbSoundboard";
             this.gbSoundboard.Size = new System.Drawing.Size(274, 71);
             this.gbSoundboard.TabIndex = 15;
@@ -576,7 +576,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(659, 537);
+            this.ClientSize = new System.Drawing.Size(1198, 596);
             this.Controls.Add(this.gbSoundboard);
             this.Controls.Add(this.gbAudioDevices);
             this.Controls.Add(this.gbPushToTalk);
@@ -596,7 +596,7 @@
             this.MinimumSize = new System.Drawing.Size(675, 576);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "JN Soundboard";
+            this.Text = "MK SoundBoard";
             this.Click += new System.EventHandler(this.form_Click);
             this.Resize += new System.EventHandler(this.frmMain_Resize);
             this.menuStrip1.ResumeLayout(false);

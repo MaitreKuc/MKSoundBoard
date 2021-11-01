@@ -1,0 +1,16 @@
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\bin\Debug\JNSoundboard.exe.config
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\bin\Debug\JNSoundboard.exe
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\bin\Debug\JNSoundboard.pdb
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\bin\Debug\NAudio.dll
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\bin\Debug\NAudio.xml
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.csproj.AssemblyReference.cache
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.AddEditHotkeyForm.resources
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.MainForm.resources
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.Properties.Resources.resources
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.SettingsForm.resources
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.TextToSpeechForm.resources
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.csproj.GenerateResource.cache
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.csproj.CoreCompileInputs.cache
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\MKSoundBoard.csproj.CopyComplete
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\JNSoundboard.exe
+C:\Users\Teddy\Source\Repos\MaitreKuc\MKSoundBoard\obj\Debug\JNSoundboard.pdb

@@ -1,7 +1,7 @@
 ﻿using System;
 using NAudio.Wave;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     class CachedSoundSampleProvider : ISampleProvider
     {

@@ -4,7 +4,7 @@ using System.Reflection;                //Assembly
 using System.Threading;                 //Mutex
 using System.Windows.Forms;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     static class Program
     {

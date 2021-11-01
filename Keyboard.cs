@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace JNSoundboard
+namespace MKSoundBoard
 {
     public class Keyboard
     {
